@@ -1,0 +1,29 @@
+Soul Link Companion
+Copyright (c) 2026 Hagestol. All rights reserved.
+
+This is a free fan project. You may download it and use it to play your own
+games. Beyond that, the author keeps all rights.
+
+You MAY:
+- Download the program and run it for your own personal use.
+- Share a link to the official release page so other people can download it
+  themselves.
+
+You MAY NOT, without the author's written permission:
+- Redistribute this program or its files, modified or unmodified, including
+  re-uploading it, bundling it with anything else, or hosting your own copy.
+- Sell it, or charge for it, or put it behind ads or a paywall.
+- Copy its code, scripts, dashboard, or data into another project.
+- Present this work, in whole or in part, as your own.
+
+The names, characters, and games this tool works with belong to their own
+owners. This project is not affiliated with or endorsed by Nintendo, Game
+Freak, The Pokemon Company, or the makers of Emerald Imperium or The
+Nuzlomizer. No game ROMs are included or distributed.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR LOST SAVE DATA
+ARISING FROM THE USE OF THIS SOFTWARE. Back up your game saves.
+
+To ask about any use not allowed above, open an issue on the project's GitHub
+repository.
