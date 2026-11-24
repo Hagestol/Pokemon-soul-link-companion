@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hagestol/Pokemon-soul-link-companion/releases/latest"><img src="https://img.shields.io/github/v/release/Hagestol/Pokemon-soul-link-companion?label=latest&style=flat-square" alt="Latest release"></a>
-  <a href="https://github.com/Hagestol/Pokemon-soul-link-companion/releases"><img src="https://img.shields.io/github/downloads/Hagestol/Pokemon-soul-link-companion/total?style=flat-square" alt="Downloads"></a>
+  <a href="https://github.com/Hagestol/Pokemon-soul-link-companion/releases/latest"><img src="https://img.shields.io/github/v/release/Hagestol/Pokemon-soul-link-companion?style=flat-square&label=latest" alt="Latest release"></a>
+  <a href="https://github.com/Hagestol/Pokemon-soul-link-companion/releases"><img src="https://img.shields.io/github/downloads/Hagestol/Pokemon-soul-link-companion/total?style=flat-square&label=downloads" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4?style=flat-square" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/badge/mGBA-0.11%20dev%20build-6c4ab6?style=flat-square" alt="mGBA 0.11 development build">
+  <a href="https://mgba.io/downloads.html#development-downloads"><img src="https://img.shields.io/badge/mGBA-0.11%20dev%20build-6c4ab6?style=flat-square" alt="mGBA 0.11 development build"></a>
 </p>
 
 <p align="center">
